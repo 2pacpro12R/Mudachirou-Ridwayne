@@ -1,0 +1,1 @@
+"# Mudachirou-Ridwayne"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/2pacpro12R/Mudachirou-Ridwayne.gitgit push -u origin main
